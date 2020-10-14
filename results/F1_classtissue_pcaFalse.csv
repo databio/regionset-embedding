@@ -1,0 +1,6 @@
+dataset,representation,pca,f1
+tissue,tissue_feature_1.0_atlas.bed,True,0.9568181818181817
+tissue,tissue_feature_10.0_atlas.bed,True,0.9522727272727273
+tissue,tissue_feature_5.0_atlas.bed,True,0.9500000000000001
+tissue,tissue_universe.txt,True,0.9590909090909091
+tissue,Region-set2vec,True,0.9090909090909091
