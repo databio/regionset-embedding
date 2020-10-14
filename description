@@ -1,1 +1,25 @@
 
+Folder:
+meta_data: this folder contains the meta data information for each dataset. (antibody, cell line, tissue)
+representations: different universes created by union and tf_idf approaches (antibody, cell line, tissue)
+
+region_embedding_models: The trained word2vec models, output of the representation_regionset2vec are saved in this folder. 
+Classification_performance: 
+
+Functions_ailist: 
+
+Functions_readbedfiles:
+
+Functions_plotting:
+
+Representations_regionset2vec
+
+Representation_tf_idf:
+
+Umap_plots_simialritydetectiontask: the output files are saved in the umap_plots_simialritydetectiontask
+
+Umap_plots_classificationtask: the output files are saved in the umap_plots_ classificationtask
+
+
+
+
