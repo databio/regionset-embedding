@@ -1,4 +1,4 @@
-classification_performance: this file contains functions to read files, train a classifier on the training data and report the performance on the test dataset. The results are saved as the CSV file in the results folder.
+	classification_performance: this file contains functions to read files, train a classifier on the training data and report the performance on the test dataset. The results are saved as the CSV file in the results folder.
 	 
 	functions_ailist: this file contains the function to run ailist.
 	 
