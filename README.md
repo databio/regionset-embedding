@@ -1,12 +1,12 @@
-# regionset-embedding
+# Regionset-embedding
 
-Regionset-embedding build representation for large genomic data.This code includes the functions to build representations and evaluate that through  the classification of the biological information and finding similairty between bed files on a simulated dataset. 
+Regionset-embedding builds representation for large genomic data. This code includes the functions to build representations and evaluate that through the classification of the biological information and finding similarity between bed files on a simulated dataset. 
 
 # Dataset:
 
-The data is available at: http://big.databio.org/papers/region_embedding/
+The data is available at : http://big.databio.org/papers/region_embedding/
 
-Building representations:
+# Building representations:
 
 representations_regionset2vec: this file contains functions to shuffle the samples in the training set and training word2vec models. 
   
@@ -17,7 +17,7 @@ representation_tf_idf: this file contains functions to generate tf_idf represent
 
 classification_performance: this file contains functions to read files, train a classifier on the training data and report the performance on the test dataset. The results are saved as the CSV file in the results folder.
   
-# Visulization:
+# UMAP-plots:
 
 umap_plots_simialritydetection: this file contains functions to plot simulated dataset with different representations, the plots are saved in the umap_plots_simialritydetection folder.
   
