@@ -2,28 +2,28 @@
 
 Regionset-embedding builds representation for large genomic data. This code includes the functions to build representations and evaluate that through the classification of the biological information and finding similarity between bed files on a simulated dataset. 
 
-# Dataset:
+## Dataset:
 
 The data is available at : http://big.databio.org/papers/region_embedding/
 
-# Building representations:
+## Building representations:
 
-representations_regionset2vec: this file contains functions to shuffle the samples in the training set and training word2vec models. 
+[representations_regionset2vec](https://github.com/databio/regionset-embedding/blob/main/representations_regionset2vec.ipynb): this file contains functions to shuffle the samples in the training set and training word2vec models. 
   
 representation_tf_idf: this file contains functions to generate tf_idf representation. 
   
  
-# Classification Task:
+## Classification Task:
 
 classification_performance: this file contains functions to read files, train a classifier on the training data and report the performance on the test dataset. The results are saved as the CSV file in the results folder.
   
-# UMAP-plots:
+## UMAP-plots:
 
 umap_plots_simialritydetection: this file contains functions to plot simulated dataset with different representations, the plots are saved in the umap_plots_simialritydetection folder.
   
 umap_plots_classification: this file contains functions to plot antibody, cell line and tissue datasets with different representations, the plots are saved in the umap_plots_classification folder.
 
-# Folders:
+## Folders:
 
 meta_data: this folder contains the metadata information for each dataset (antibody, cell line, tissue).
   
@@ -33,7 +33,7 @@ region_embedding_models: the trained word2vec models, output of the representati
 
 results: the performance of the classifiers is saved in this folder as the 
 
-# Functions:
+## Functions:
 
 functions_ailist: this file contains the function to run ailist.
   
