@@ -1,0 +1,6 @@
+dataset,representation,pca,f1
+antibody,antibody_feature_1.0_atlas.bed,False,0.9067930489731437
+antibody,antibody_feature_10.0_atlas.bed,False,0.9510268562401264
+antibody,antibody_feature_5.0_atlas.bed,False,0.9494470774091627
+antibody,antibody_universe.bed,False,0.9510268562401264
+antibody,Region-set2vec,False,0.9399684044233807

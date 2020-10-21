@@ -1,9 +1,0 @@
-dataset,representation,pca,f1
-tissue,tissue_feature_1.0_atlas.bed,True,0.9090909090909091
-tissue,tissue_feature_1.0_atlas.bed,True,0.8909090909090909
-tissue,tissue_feature_1.0_atlas.bed,True,0.8977272727272727
-tissue,tissue_feature_10.0_atlas.bed,True,0.8931818181818182
-tissue,tissue_feature_5.0_atlas.bed,True,0.865909090909091
-tissue,tissue_universe.txt,True,0.8954545454545455
-tissue,tissue_universe.txt,True,0.9090909090909091
-tissue,Region-set2vec,True,0.9090909090909091

@@ -1,5 +1,0 @@
-AIList
-umap
-gensim
-nbimporter
-
