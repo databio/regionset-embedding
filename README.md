@@ -8,9 +8,9 @@ The data is available at : http://big.databio.org/papers/region_embedding/
 
 ## Building representations:
 
-[representations_regionset2vec](https://github.com/databio/regionset-embedding/blob/main/representations_regionset2vec.ipynb): this file contains functions to shuffle the samples in the training set and training word2vec models. 
+[representations_regionset2vec](https://github.com/databio/regionset-embedding/blob/main/src/representations_regionset2vec.ipynb): this file contains functions to shuffle the samples in the training set and training word2vec models. 
   
-[representation_tf_idf](https://github.com/databio/regionset-embedding/blob/main/representations_tf_idf.ipynb): this file contains functions to generate tf_idf representation. 
+[representation_tf_idf](https://github.com/databio/regionset-embedding/blob/main/src/representations_tf_idf.ipynb): this file contains functions to generate tf_idf representation. 
   
  
 ## Classification Task:
@@ -23,7 +23,9 @@ The data is available at : http://big.databio.org/papers/region_embedding/
   
 [umap_plots_classification](https://github.com/databio/regionset-embedding/tree/main/umap_plots_classification): this file contains functions to plot antibody, cell line and tissue datasets with different representations, the plots are saved in the umap_plots_classification folder.
 
-[peak_calling_analysis](https://github.com/databio/regionset-embedding/tree/main/peak_calling_analysis): this file contains functions to analysis the effect of peak calling thresholds on classification performance and similarity detection of different representations.
+## Peak threshold subsampling task:
+
+[peak_calling_analysis](https://github.com/databio/regionset-embedding/tree/main/src/peak_calling_analysis): this file contains functions to analysis the effect of peak calling thresholds on classification performance and similarity detection of different representations.
 
 ## Outputs & Metadata folders:
 
