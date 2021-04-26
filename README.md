@@ -23,6 +23,8 @@ The data is available at : http://big.databio.org/papers/region_embedding/
   
 [umap_plots_classification](https://github.com/databio/regionset-embedding/tree/main/umap_plots_classification): this file contains functions to plot antibody, cell line and tissue datasets with different representations, the plots are saved in the umap_plots_classification folder.
 
+[peak_calling_analysis](https://github.com/databio/regionset-embedding/tree/main/peak_calling_analysis): this file contains functions to analysis the effect of peak calling thresholds on classification performance and similarity detection of different representations.
+
 ## Outputs & Metadata folders:
 
 [meta_data](https://github.com/databio/regionset-embedding/tree/main/meta_data): this folder contains the metadata information for each dataset (antibody, cell line, tissue).
