@@ -15,7 +15,7 @@ The data is available at : http://big.databio.org/papers/region_embedding/
  
 ## Classification Task:
 
-[classification_performance](https://github.com/databio/regionset-embedding/blob/main/classification_performance.ipynb): this file contains functions to read files, train a classifier on the training data and report the performance on the test dataset. The results are saved as the CSV file in the results folder.
+[classification_performance](https://github.com/databio/regionset-embedding/blob/main/src/classification_performance.ipynb): this file contains functions to read files, train a classifier on the training data and report the performance on the test dataset. The results are saved as the CSV file in the results folder.
   
 ## UMAP-plots:
 
