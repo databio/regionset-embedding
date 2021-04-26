@@ -25,7 +25,7 @@ The data is available at : http://big.databio.org/papers/region_embedding/
 
 ## Peak threshold subsampling task:
 
-[peak_calling_analysis](https://github.com/databio/regionset-embedding/tree/main/src/peak_calling_analysis): this file contains functions to analysis the effect of peak calling thresholds on classification performance and similarity detection of different representations.
+[peak_calling_analysis](https://github.com/databio/regionset-embedding/tree/main/src/peak_calling_analysis.ipynb): this file contains functions to analysis the effect of peak calling thresholds on classification performance and similarity detection of different representations.
 
 ## Outputs & Metadata folders:
 
@@ -39,9 +39,9 @@ The data is available at : http://big.databio.org/papers/region_embedding/
 
 ## Functions:
 
-[functions_ailist](https://github.com/databio/regionset-embedding/blob/main/functions_ailist.ipynb): this file contains the function to run ailist.
+[functions_ailist](https://github.com/databio/regionset-embedding/blob/main/src/functions_ailist.ipynb): this file contains the function to run ailist.
   
-[functions_readbedfiles](https://github.com/databio/regionset-embedding/blob/main/functions_readbedfiles.ipynb): this file contains functions for reading bedfiles, convert the binary representation to text document format, reading and writing JSON files. 
+[functions_readbedfiles](https://github.com/databio/regionset-embedding/blob/main/src/functions_readbedfiles.ipynb): this file contains functions for reading bedfiles, convert the binary representation to text document format, reading and writing JSON files. 
   
-[functions_plot](https://github.com/databio/regionset-embedding/blob/main/functions_plot.ipynb): this file contains functions to reprocess the data, reduce dimensions and plot using umap technique. 
+[functions_plot](https://github.com/databio/regionset-embedding/blob/main/src/functions_plot.ipynb): this file contains functions to reprocess the data, reduce dimensions and plot using umap technique. 
   
